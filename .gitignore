@@ -1,0 +1,21 @@
+# ==================================
+# CMPE30274 - FAct5
+# Group 02
+# ==================================
+
+# Prevent credentials from being uploaded
+secrets.h
+
+# Arduino temporary files
+*.tmp
+*.bak
+
+# Build folders
+build/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
